@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><msub><mi>t</mi><mi>i</mi></msub><mo stretchy="false">=</mo><mrow><munderover><mo stretchy="false">∑</mo><mrow><mi>k</mi><mo stretchy="false">=</mo><mn>1</mn></mrow><mi>i</mi></munderover><mrow><mi>Δ</mi><msub><mi>t</mi><mi>k</mi></msub></mrow></mrow></mrow><annotation encoding="StarMath 5.0">{t} rsub {i} = sum from {k = 1} to {i} {Δ {t} rsub {k}}</annotation></semantics></math>
